@@ -1,0 +1,5 @@
+flwr[simulation]==1.13.0
+torch==2.5.1
+torchvision==0.20.1
+opacus==1.5.1
+flwr-datasets==0.5.0
